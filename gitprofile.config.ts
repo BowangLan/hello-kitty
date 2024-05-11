@@ -124,6 +124,22 @@ const CONFIG = {
       description:
         'An in-depth analysis of window-side bird watching and its impact on feline cognitive development.',
     },
+    {
+  title: 'Unraveling the Mystery of Infinite Loops: A Cat's Perspective',
+  journalName: 'Feline Computer Theory Quarterly',
+  authors: 'Hello Kitty, Badtz-Maru',
+  link: 'https://example.com',
+  description:
+    'This groundbreaking study investigates how cats perceive infinite loops, comparing them to the never-ending task of chasing one\'s own tail. Insights include both theoretical models and practical experiments involving laser pointers and automated cat wheels.',
+},
+{
+  title: 'The Effectiveness of Cat-Paws Typing Technique in Speed Coding',
+  journalName: 'Journal of Innovative Computing Methods',
+  authors: 'Hello Kitty, Keroppi',
+  link: 'https://example.com',
+  description:
+    'Exploring the revolutionary "Cat-Paws Typing" method, this paper presents a humorous yet surprisingly effective approach to enhance typing speed and accuracy. The study measures performance enhancements in real-world coding sprints, with a focus on fluffy keyboard adaptations.'
+}Ï
   ],
   blog: {
     source: 'dev',
