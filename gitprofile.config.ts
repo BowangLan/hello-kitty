@@ -139,7 +139,7 @@ const CONFIG = {
   link: 'https://example.com',
   description:
     'Exploring the revolutionary "Cat-Paws Typing" method, this paper presents a humorous yet surprisingly effective approach to enhance typing speed and accuracy. The study measures performance enhancements in real-world coding sprints, with a focus on fluffy keyboard adaptations.'
-}Ï
+}
   ],
   blog: {
     source: 'dev',
