@@ -125,7 +125,7 @@ const CONFIG = {
         'An in-depth analysis of window-side bird watching and its impact on feline cognitive development.',
     },
     {
-  title: 'Unraveling the Mystery of Infinite Loops: A Cat's Perspective',
+  title: 'Unraveling the Mystery of Infinite Loops: A Cat\'s Perspective',
   journalName: 'Feline Computer Theory Quarterly',
   authors: 'Hello Kitty, Badtz-Maru',
   link: 'https://example.com',
